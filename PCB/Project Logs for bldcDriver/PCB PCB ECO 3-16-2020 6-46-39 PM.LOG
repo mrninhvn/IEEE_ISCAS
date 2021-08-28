@@ -1,0 +1,35 @@
+Added Pin To Net: NetName=gnd Pin=C1-1
+Added Pin To Net: NetName=gnd Pin=C1-7
+Added Net: Name=gnd
+Added Pin To Net: NetName=p0 Pin=C2-4
+Added Net: Name=p0
+Added Pin To Net: NetName=p2 Pin=C2-5
+Added Net: Name=p2
+Added Pin To Net: NetName=p4 Pin=C2-3
+Added Net: Name=p4
+Added Pin To Net: NetName=p5 Pin=C1-10
+Added Net: Name=p5
+Added Pin To Net: NetName=p15 Pin=C2-6
+Added Net: Name=p15
+Added Pin To Net: NetName=p16 Pin=C2-2
+Added Net: Name=p16
+Added Pin To Net: NetName=p17 Pin=C2-1
+Added Net: Name=p17
+Added Pin To Net: NetName=p18 Pin=C1-9
+Added Net: Name=p18
+Added Pin To Net: NetName=p19 Pin=C1-8
+Added Net: Name=p19
+Added Pin To Net: NetName=p21 Pin=C1-6
+Added Net: Name=p21
+Added Pin To Net: NetName=p22 Pin=C1-3
+Added Net: Name=p22
+Added Pin To Net: NetName=p23 Pin=C1-2
+Added Net: Name=p23
+Added Pin To Net: NetName=rx Pin=C1-5
+Added Net: Name=rx
+Added Pin To Net: NetName=sd0 Pin=C2-8
+Added Net: Name=sd0
+Added Pin To Net: NetName=sd1 Pin=C2-7
+Added Net: Name=sd1
+Added Pin To Net: NetName=tx Pin=C1-4
+Added Net: Name=tx

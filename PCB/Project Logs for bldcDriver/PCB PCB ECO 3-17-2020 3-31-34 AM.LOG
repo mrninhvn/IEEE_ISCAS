@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=p5/pwm2 Pin=C1-10
+Added Pin To Net: NetName=p5/pwm2 Pin=IC1-4
+Added Net: Name=p5/pwm2
+Added Pin To Net: NetName=p17/pwm1 Pin=C2-1
+Added Pin To Net: NetName=p17/pwm1 Pin=IC1-7
+Added Net: Name=p17/pwm1

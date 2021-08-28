@@ -1,0 +1,10 @@
+Added Component: Designator=SJ?(SJ-SMD)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SJ?(SJ-SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3v Pin=SJ?-1
+Added Pin To Net: NetName=5v Pin=SJ?-1
+Added Pin To Net: NetName=Vcc Pin=SJ?-2
+Added Pin To Net: NetName=Vcc Pin=SJ?-2
+Added Member To Class: ClassName=schematic Member=Component SJ? SJ-SMD
+Added Member To Class: ClassName=schematic Member=Component SJ? SJ-SMD

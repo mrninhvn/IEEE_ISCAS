@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Vcc Pin=Cx1-1
+Added Pin To Net: NetName=VIN Pin=Cx1-1
+Added Member To Class: ClassName=schematic Member=Component Cx1 10u

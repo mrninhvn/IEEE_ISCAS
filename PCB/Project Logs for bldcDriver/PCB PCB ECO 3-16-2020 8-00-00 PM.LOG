@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=5v Pin=IC3-3
+Added Pin To Net: NetName=VIN Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=IC3-1
+Added Net: Name=VIN

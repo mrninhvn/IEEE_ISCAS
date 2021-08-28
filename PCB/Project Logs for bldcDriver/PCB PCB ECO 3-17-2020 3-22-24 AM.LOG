@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=p23/pwm5 Pin=C1-2
+Added Pin To Net: NetName=p23/pwm5 Pin=IC2-4
+Added Net: Name=p23/pwm5

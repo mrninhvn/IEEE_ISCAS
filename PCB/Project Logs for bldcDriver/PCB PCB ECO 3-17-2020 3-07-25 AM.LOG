@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=gnd Pin=C3-1
+Added Pin To Net: NetName=gnd Pin=C3-2
+Added Pin To Net: NetName=p21 Pin=C3-3
+Added Pin To Net: NetName=Vcc Pin=C3-4
+Added Pin To Net: NetName=p22 Pin=C3-5
+Added Member To Class: ClassName=schematic Member=Component C3 JP5

@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=Cx6 NewDesignator=Cx7
+Change Component Designator: OldDesignator=Cx7 NewDesignator=Cx9
+Change Component Designator: OldDesignator=Cx8 NewDesignator=Cx10
+Change Component Designator: OldDesignator=Cx9 NewDesignator=Cx11
+Change Component Designator: OldDesignator=Cx10 NewDesignator=Cx12
+Change Component Designator: OldDesignator=DIO2 NewDesignator=DIO3
+Added Component: Designator=Cx6(CN-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx8(CN-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=DIO2(DIO-SMD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=DIO4(DIO-SMD-123)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=Cx6-2
+Added Pin To Net: NetName=VIN Pin=DIO4-1
+Change Net Name : Old Net Name=NetCx6_1 New Net Name=NetCx7_1
+Change Net Name : Old Net Name=NetCx6_2 New Net Name=NetCx7_2
+Added Pin To Net: NetName=NetCx6_1 Pin=Cx6-1
+Added Pin To Net: NetName=NetCx6_1 Pin=DIO2-2
+Added Pin To Net: NetName=NetCx6_1 Pin=IC2-18
+Added Net: Name=NetCx6_1
+Added Pin To Net: NetName=NetCx8_1 Pin=Cx8-1
+Added Pin To Net: NetName=NetCx8_1 Pin=IC2-17
+Added Net: Name=NetCx8_1
+Added Pin To Net: NetName=NetCx8_2 Pin=Cx8-2
+Added Pin To Net: NetName=NetCx8_2 Pin=DIO2-1
+Added Pin To Net: NetName=NetCx8_2 Pin=DIO4-2
+Added Net: Name=NetCx8_2
+Added Member To Class: ClassName=schematic Member=Component Cx11 10u
+Added Member To Class: ClassName=schematic Member=Component Cx12 10u
+Added Member To Class: ClassName=schematic Member=Component DIO3 Diode SMD
+Added Member To Class: ClassName=schematic Member=Component DIO4 Diode SMD

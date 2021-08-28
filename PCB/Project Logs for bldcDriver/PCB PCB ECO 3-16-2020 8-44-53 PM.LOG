@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Added Component: Designator=C7(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "-1210-50V-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "10UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-09824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CAP"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "-1210-50V-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "10UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-09824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CAP"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "-1210-50V-20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "10UF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-09824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CAP"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C7-2
+Added Pin To Net: NetName=gnd Pin=C8-1
+Added Pin To Net: NetName=VIN Pin=C8-2
+Added Pin To Net: NetName=gnd Pin=C9-1
+Added Pin To Net: NetName=VIN Pin=C9-2
+Added Member To Class: ClassName=schematic Member=Component C7 47u
+Added Member To Class: ClassName=schematic Member=Component C9 47u
+Added Member To Class: ClassName=schematic Member=Component C10 JP2

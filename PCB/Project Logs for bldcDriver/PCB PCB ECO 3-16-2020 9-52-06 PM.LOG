@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=gnd Pin=IC2-1
+Added Pin To Net: NetName=gnd Pin=IC2-2
+Added Pin To Net: NetName=gnd Pin=IC2-10
+Added Pin To Net: NetName=gnd Pin=IC2-11
+Added Pin To Net: NetName=gnd Pin=IC2-19
+Added Pin To Net: NetName=gnd Pin=IC2-20
+Added Member To Class: ClassName=schematic Member=Component Cx2 10u
+Added Member To Class: ClassName=schematic Member=Component Cx4 1u

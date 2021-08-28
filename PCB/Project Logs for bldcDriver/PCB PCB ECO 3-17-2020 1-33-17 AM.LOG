@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=gnd Pin=C7-1
+Removed Pin From Net: NetName=VIN Pin=C7-2
+Removed Pin From Net: NetName=gnd Pin=C8-1
+Removed Pin From Net: NetName=VIN Pin=C8-2
+Removed Pin From Net: NetName=gnd Pin=C9-1
+Removed Pin From Net: NetName=VIN Pin=C9-2
+Change Component Footprint: Designator=C7 Old Footprint=1210 New Footprint=EIA3528
+Change Component Footprint: Designator=C8 Old Footprint=1210 New Footprint=EIA3528
+Change Component Comment : Designator=C7 Old Comment=47u New Comment=
+Change Component Comment : Designator=C8 Old Comment=47u New Comment=
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change component parameters: Designator = "C7"; Footprint = "EIA3528"; UniqueID = "\UJQXBYCT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "-EIA3528-10V-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "47UF-POLAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "EIA3528"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CAP-08310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "EIA3528"; UniqueID = "\ESCVQULP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "DeviceName"; Value = "-EIA3528-10V-10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DeviceSetName"; Value = "47UF-POLAR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "EIA3528"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CAP-08310"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SymbolName_1"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Added Component: Designator=C10(EIA3528)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "DeviceName"; Value = "-EIA3528-10V-10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "47UF-POLAR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "EIA3528"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-08310"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CAP_POL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C7-A
+Added Pin To Net: NetName=gnd Pin=C7-C
+Added Pin To Net: NetName=VIN Pin=C8-A
+Added Pin To Net: NetName=gnd Pin=C8-C
+Added Pin To Net: NetName=VIN Pin=C10-A
+Added Pin To Net: NetName=gnd Pin=C10-C

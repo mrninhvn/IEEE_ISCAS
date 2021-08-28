@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=Cx1 NewDesignator=Cx2
+Change Component Designator: OldDesignator=Cx2 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx4
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx5
+Change Component Designator: OldDesignator=Cx5 NewDesignator=Cx6
+Change Component Designator: OldDesignator=Cx6 NewDesignator=Cx7
+Change Component Designator: OldDesignator=Cx7 NewDesignator=Cx8
+Added Component: Designator=Cx1(CN-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vcc Pin=Cx1-1
+Added Pin To Net: NetName=gnd Pin=Cx1-2
+Change Net Name : Old Net Name=NetCx2_1 New Net Name=NetCx3_1
+Change Net Name : Old Net Name=NetCx3_1 New Net Name=NetCx4_1
+Change Net Name : Old Net Name=NetCx3_2 New Net Name=NetCx4_2
+Change Net Name : Old Net Name=Vref New Net Name=Vref1
+Added Member To Class: ClassName=schematic Member=Component Cx8 10u

@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VIN Pin=DIO2-1
+Added Member To Class: ClassName=schematic Member=Component Cx1 1u
+Added Member To Class: ClassName=schematic Member=Component Cx2 220n
+Added Member To Class: ClassName=schematic Member=Component Cx3 10n

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=MA1 Pin=C5-2
+Added Pin To Net: NetName=MA2 Pin=C5-3
+Added Pin To Net: NetName=NetLabel239 Pin=C5-1
+Added Net: Name=NetLabel239
+Added Member To Class: ClassName=schematic Member=Component DIO2 Diode SMD

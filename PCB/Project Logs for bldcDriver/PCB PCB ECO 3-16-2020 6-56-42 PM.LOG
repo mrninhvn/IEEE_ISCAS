@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=gnd Pin=C4-6
+Change Net Name : Old Net Name=NetLabel182 New Net Name=cmd
+Change Net Name : Old Net Name=NetLabel183 New Net Name=sd3
+Change Net Name : Old Net Name=NetLabel184 New Net Name=sd2
+Change Net Name : Old Net Name=NetLabel185 New Net Name=p13
+Change Net Name : Old Net Name=NetLabel187 New Net Name=p12
+Change Net Name : Old Net Name=NetLabel188 New Net Name=p14
+Change Net Name : Old Net Name=NetLabel189 New Net Name=p27
+Change Net Name : Old Net Name=NetLabel190 New Net Name=p26
+Change Net Name : Old Net Name=NetLabel191 New Net Name=p25
+Change Net Name : Old Net Name=NetLabel192 New Net Name=p33
+Change Net Name : Old Net Name=NetLabel193 New Net Name=p32
+Change Net Name : Old Net Name=NetLabel194 New Net Name=p35
+Change Net Name : Old Net Name=NetLabel195 New Net Name=p34
+Change Net Name : Old Net Name=NetLabel196 New Net Name=svn
+Change Net Name : Old Net Name=NetLabel197 New Net Name=svp
+Change Net Name : Old Net Name=NetLabel198 New Net Name=en
+Change Net Name : Old Net Name=NetLabel199 New Net Name=3.3v

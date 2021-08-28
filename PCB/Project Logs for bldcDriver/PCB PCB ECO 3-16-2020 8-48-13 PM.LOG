@@ -1,0 +1,12 @@
+Added Component: Designator=Cx1(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx2(CN-SMD-1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=Cx1-1
+Added Pin To Net: NetName=VIN Pin=Cx1-2
+Added Pin To Net: NetName=gnd Pin=Cx2-1
+Added Pin To Net: NetName=VIN Pin=Cx2-2
+Added Member To Class: ClassName=schematic Member=Component Cx1 XXpF
+Added Member To Class: ClassName=schematic Member=Component Cx2 XXpF

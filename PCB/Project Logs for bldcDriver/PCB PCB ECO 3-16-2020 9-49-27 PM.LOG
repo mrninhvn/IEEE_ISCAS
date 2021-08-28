@@ -1,0 +1,41 @@
+Change Component Designator: OldDesignator=Cx2 NewDesignator=Cx3
+Change Component Designator: OldDesignator=Cx3 NewDesignator=Cx5
+Change Component Designator: OldDesignator=Cx4 NewDesignator=Cx6
+Change Component Designator: OldDesignator=Cx5 NewDesignator=Cx7
+Change Component Designator: OldDesignator=Cx6 NewDesignator=Cx8
+Change Component Designator: OldDesignator=Cx7 NewDesignator=Cx9
+Change Component Designator: OldDesignator=Cx8 NewDesignator=Cx10
+Added Component: Designator=Cx2(CN-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Component: Designator=Cx4(CN-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=Cx2-1
+Added Pin To Net: NetName=gnd Pin=Cx2-2
+Added Pin To Net: NetName=gnd Pin=Cx4-2
+Added Pin To Net: NetName=Vcc Pin=IC2-3
+Added Pin To Net: NetName=Vcc Pin=IC2-8
+Added Pin To Net: NetName=VIN Pin=IC2-9
+Added Pin To Net: NetName=VIN Pin=IC2-12
+Added Pin To Net: NetName=Vcc Pin=IC2-13
+Change Net Name : Old Net Name=NetCx3_1 New Net Name=NetCx5_1
+Change Net Name : Old Net Name=NetCx4_1 New Net Name=NetCx6_1
+Change Net Name : Old Net Name=NetCx4_2 New Net Name=NetCx6_2
+Added Pin To Net: NetName=MB1 Pin=IC2-6
+Added Net: Name=MB1
+Added Pin To Net: NetName=MB2 Pin=IC2-5
+Added Net: Name=MB2
+Added Pin To Net: NetName=MB3 Pin=IC2-15
+Added Net: Name=MB3
+Added Pin To Net: NetName=pwm4 Pin=IC2-7
+Added Net: Name=pwm4
+Added Pin To Net: NetName=pwm5 Pin=IC2-4
+Added Net: Name=pwm5
+Added Pin To Net: NetName=pwm6 Pin=IC2-14
+Added Net: Name=pwm6
+Added Pin To Net: NetName=Vref2 Pin=Cx4-1
+Added Pin To Net: NetName=Vref2 Pin=IC2-16
+Added Net: Name=Vref2
+Added Member To Class: ClassName=schematic Member=Component Cx9 10u
+Added Member To Class: ClassName=schematic Member=Component Cx10 10u
